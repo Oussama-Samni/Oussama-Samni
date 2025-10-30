@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Oussama Smni</h1>
+<h1 align="center">Oussama Samni</h1>
 
 <p align="center">
 💻 Full-Stack Dev student<br/>
