@@ -1,10 +1,12 @@
-<h1 align="center">Oussama — Filmmaker & Full-Stack Developer Student</h1>
+<!-- Header -->
+<h1 align="center">Oussama Abdellaoui</h1>
 <p align="center">
-Canary Islands (Spain) · Freelance filmmaker/photographer · Learning full-stack development
+  <em>Filmmaker · Full-Stack Developer Student</em><br/>
+  Canary Islands, Spain
 </p>
 
 <p align="center">
-  <a href="https://oussamasadel.com">Portfolio</a>
+  <a href="https://oussamasadel.com">🌐 Portfolio</a>
 </p>
 
 ---
