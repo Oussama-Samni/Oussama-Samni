@@ -10,9 +10,8 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://img.shields.io/badge/-_-00000000?style=flat&color=blueviolet&labelColor=6e00ff" width="65%">
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="60%"></p>
+
 
 
 
