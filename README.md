@@ -1,9 +1,14 @@
 <!-- Header -->
-<h1 align="center">Oussama Samni</h1>
+<h1 align="center">Oussama Smni</h1>
+
 <p align="center">
-  <em>Full-Stack Developer💻 · 🎥 Filmmaker/Photographer</em><br/>
-·Remote·
+💻 Full-Stack Dev student<br/>
+🎬 Filmmaker<br/>
+🚀 Learning, improving & shipping
 </p>
+
+---
+
 
 <p align="center">
   <a href="https://oussamasadel.com">🌐 Portfolio</a>
