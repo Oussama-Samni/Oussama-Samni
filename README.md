@@ -2,7 +2,7 @@
 <h1 align="center">Oussama Samni</h1>
 <p align="center">
   <em>Full-Stack Developer💻 · 🎥 Filmmaker/Photographer</em><br/>
- <a href="https://oussamasadel.com">oussamasadel.com</a> · Remote
+·Remote·
 </p>
 
 <p align="center">
