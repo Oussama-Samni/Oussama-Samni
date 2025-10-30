@@ -11,7 +11,7 @@
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/-_-%23000000?style=flat-square&labelColor=blue&color=blue" width="100%">
+  <img src="https://img.shields.io/badge/-_-%23000000?style=flat-square&labelColor=blue&color=blue" width="5%">
 </p>
 
 
