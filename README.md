@@ -1,8 +1,8 @@
 <!-- Header -->
-<h1 align="center">Oussama Abdellaoui</h1>
+<h1 align="center">Oussama Samni</h1>
 <p align="center">
-  <em>Filmmaker · Full-Stack Developer Student</em><br/>
-  Canary Islands, Spain
+  <em>Full-Stack Developer💻 · 🎥 Filmmaker/Photographer</em><br/>
+ <a href="https://oussamasadel.com">oussamasadel.com</a> · Remote
 </p>
 
 <p align="center">
@@ -12,18 +12,10 @@
 ---
 
 ### About me
-- Freelance **filmmaker/photographer**.
-- Currently studying to become a **full-stack developer**.
-- Focused on clean structure while I learn (SOLID mindset).
+Full-stack developer student with a filmmaker background, blending storytelling and problem-solving into code. I focus on building real tools that make people’s workflows smoother — and on my best days, I don’t try to fix JavaScript issues by adjusting the lighting. 
 
-### What I’m learning now
-- Frontend: **HTML/CSS/JavaScript**, React/Next.js (basics → intermediate)
-- Backend: **Node.js** (Express/Nest basics), APIs/auth/testing
-- Dev basics: **Git/GitHub**, simple CI with GitHub Actions
+### What drives me
+To reduce friction in real workflows using clean web tech and practical AI, so people save time and get results.
 
-### Interests
-- Bridging **media work** (video/photo) with web apps (galleries, simple pipelines, automations).
-- Clear, maintainable code and step-by-step improvement.
 
-### Get in touch
-- Portfolio: **oussamasadel.com**
+
